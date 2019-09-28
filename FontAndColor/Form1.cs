@@ -15,5 +15,10 @@ namespace FontAndColor
         {
             InitializeComponent();
         }
+
+        private void statusStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
     }
 }
